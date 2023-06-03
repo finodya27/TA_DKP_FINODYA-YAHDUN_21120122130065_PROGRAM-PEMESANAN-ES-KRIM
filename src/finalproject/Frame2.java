@@ -312,6 +312,10 @@ public void total(){
         case "Mix 3 Rasa":
                 hargapesanan.setText("15000");
                 break;
+        case "Choose":
+                hargapesanan.setText("0");
+                jumlahbeli.setText("0");
+                break;
     }
     }//GEN-LAST:event_pesananActionPerformed
 
@@ -345,6 +349,9 @@ public void total(){
         case "Cone":
                 hargawadah.setText("2000");
         break;
+        case "Choose":
+                hargawadah.setText ("0");
+        break;
         }
     }//GEN-LAST:event_wadahActionPerformed
 
@@ -377,6 +384,11 @@ public void total(){
         case "No Snack":
                 hargasnack.setText("0");
                 jumlahsnack.setText("0");
+        break;
+        case "Choose":
+            hargasnack.setText("0");
+            jumlahsnack.setText("0");
+        break;
         }
     }//GEN-LAST:event_snackActionPerformed
 

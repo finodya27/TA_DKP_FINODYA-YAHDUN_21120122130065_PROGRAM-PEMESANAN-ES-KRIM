@@ -164,7 +164,7 @@ public Frame1() {
     private void antrianKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_antrianKeyTyped
         // TODO add your handling code here:
         char c = evt.getKeyChar();
-        if(!((c >= '0') && (c <= '9') && antrian.getText().length() < 5
+        if(!((c >= '0') && (c <= '9') && antrian.getText().length() < 3
         || (c == KeyEvent.VK_BACK_SPACE))){
             getToolkit().beep();
             evt.consume();
