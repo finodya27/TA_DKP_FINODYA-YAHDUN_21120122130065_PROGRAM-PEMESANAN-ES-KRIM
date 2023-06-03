@@ -151,7 +151,7 @@ public void total(){
         jTextArea2.setColumns(20);
         jTextArea2.setForeground(new java.awt.Color(255, 255, 255));
         jTextArea2.setRows(5);
-        jTextArea2.setText("\tMenu\n  Ice Cream\n     \tStrawberry\tRp7000\n     \tVanilla\tRp7000\n     \tChocolate\tRp70000\n     \tMix 2 Rasa\tRp10000\n     \tMix 3 Rasa\tRp15000\n  Snack\t\n     \tFrench Fries\tRp5000\n     \tWaffle\tRp5000\n     \tDonut\tRp5000");
+        jTextArea2.setText("\tMenu\n  Ice Cream\n     \tStrawberry\tRp7000\n     \tVanilla\tRp7000\n     \tChocolate\tRp7000\n     \tMix 2 Rasa\tRp10000\n     \tMix 3 Rasa\tRp15000\n  Snack\t\n     \tFrench Fries\tRp5000\n     \tWaffle\tRp5000\n     \tDonut\tRp5000");
         jTextArea2.setBorder(null);
         jTextArea2.addComponentListener(new java.awt.event.ComponentAdapter() {
             public void componentShown(java.awt.event.ComponentEvent evt) {

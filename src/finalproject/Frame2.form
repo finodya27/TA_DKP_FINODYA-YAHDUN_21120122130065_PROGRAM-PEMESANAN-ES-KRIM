@@ -257,7 +257,7 @@
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
                 </Property>
                 <Property name="rows" type="int" value="5"/>
-                <Property name="text" type="java.lang.String" value="&#x9;Menu&#xa;  Ice Cream&#xa;     &#x9;Strawberry&#x9;Rp7000&#xa;     &#x9;Vanilla&#x9;Rp7000&#xa;     &#x9;Chocolate&#x9;Rp70000&#xa;     &#x9;Mix 2 Rasa&#x9;Rp10000&#xa;     &#x9;Mix 3 Rasa&#x9;Rp15000&#xa;  Snack&#x9;&#xa;     &#x9;French Fries&#x9;Rp5000&#xa;     &#x9;Waffle&#x9;Rp5000&#xa;     &#x9;Donut&#x9;Rp5000"/>
+                <Property name="text" type="java.lang.String" value="&#x9;Menu&#xa;  Ice Cream&#xa;     &#x9;Strawberry&#x9;Rp7000&#xa;     &#x9;Vanilla&#x9;Rp7000&#xa;     &#x9;Chocolate&#x9;Rp7000&#xa;     &#x9;Mix 2 Rasa&#x9;Rp10000&#xa;     &#x9;Mix 3 Rasa&#x9;Rp15000&#xa;  Snack&#x9;&#xa;     &#x9;French Fries&#x9;Rp5000&#xa;     &#x9;Waffle&#x9;Rp5000&#xa;     &#x9;Donut&#x9;Rp5000"/>
                 <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
                   <Border info="null"/>
                 </Property>
